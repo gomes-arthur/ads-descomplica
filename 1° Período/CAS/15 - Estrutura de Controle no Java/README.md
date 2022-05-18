@@ -351,4 +351,8 @@ class AtividadePrática15
         }
     }
 }
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 01c38c12b83babf6385268d2cb2e582bd1e5bd16
