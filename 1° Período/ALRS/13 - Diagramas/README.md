@@ -46,7 +46,7 @@
     - Serve de documento dos requisitos funcionais com o fluxo da informação
 - Sistema de economia compartilhada em condomínio
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71c4c10e-dd3c-4e17-b51a-4936040a0598/Untitled.png)
+    ![Untitled](https://media.discordapp.net/attachments/964170366694076490/977192622202454036/unknown.png)
     
 
 ## Aula 4 - Diagrama de Classes
