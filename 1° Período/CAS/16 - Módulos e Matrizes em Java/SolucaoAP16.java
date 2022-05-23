@@ -26,7 +26,7 @@ class SolucaoAP16
 
     public static void main (String entrada[])
     {
-        int s = 0, vetor[] = {2, 4, 6, 8, 10}; 
+        int vetor[] = {2, 4, 6, 8, 10}; 
         int r;
 
         soma (vetor);
